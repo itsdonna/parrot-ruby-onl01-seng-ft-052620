@@ -1,4 +1,5 @@
-def broken_print_and_return_name
+def parrot (phrase = "Squawk!")
+
+  puts (phrase)
   
-  puts "Squawk!"
 end
