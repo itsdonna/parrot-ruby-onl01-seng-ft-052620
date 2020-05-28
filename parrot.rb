@@ -1,5 +1,5 @@
 def parrot (phrase = "Squawk!")
-  chirp = phrase
+  squawk = phrase
   puts (phrase)
-  chirp
+  squawk
 end
